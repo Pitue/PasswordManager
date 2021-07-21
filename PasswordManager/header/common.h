@@ -1,7 +1,6 @@
 #ifndef __PWMNGR_COMMON_H__
 #define __PWMNGR_COMMON_H__
 
-#include <iostream>
 #include <vector>
 #include <string>
 #include <deque>
@@ -13,8 +12,6 @@
 #include <atomic>
 
 #include <cassert>
-
-#include <conio.h>
 
 #include <cryptopp/aes.h>
 #include <cryptopp/osrng.h>
